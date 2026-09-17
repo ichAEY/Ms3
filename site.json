@@ -1,0 +1,20 @@
+{
+  "$schema":"https://raw.githubusercontent.com/ichAEY/tanem-site-engine-v2/v0.1.0/site.schema.json",
+  "version":2,
+  "layout":"master",
+  "specialty":"nails",
+  "brand":{"name":"Chistomanik","subtitle":"ногтевой мастер Дарья","monogram":"C"},
+  "master":{"name":"Дарья","profession":"мастер ногтевого сервиса","locationLabel":"Москва · 2-я Кабельная","heroTitle":"Chistomanik","heroAccent":"чистый аккуратный маникюр","heroCopy":"Ногтевой кабинет Дарьи в Москве с предварительной записью и индивидуальным подходом.","experience":"по записи","experienceLabel":"приём","aboutTitle":"Дарья — Chistomanik","aboutLead":"Ногтевой мастер в Москве на 2-й Кабельной улице.","aboutParagraphs":["По отзывам клиентов, Дарья специализируется на аккуратном маникюре и работе с формой ногтей.","Приём проходит в отдельном кабинете по предварительной записи."],"skills":["Маникюр","Форма ногтей","Ногтевой сервис"]},
+  "location":{"city":"Москва","address":"Москва, 2-я Кабельная улица, 15","mapCardAddress":"2-я Кабельная улица, 15","scheduleLabel":"По предварительной записи","timezone":"Europe/Moscow","weeklyHours":[],"mapEmbedUrl":"https://yandex.ru/map-widget/v1/?oid=162017830639&mode=search"},
+  "contacts":[{"type":"phone","label":"Позвонить","value":"+7 (999) 859-59-31","url":"tel:+79998595931","primary":true},{"type":"map","label":"Открыть Яндекс Карты","url":"https://yandex.ru/maps/org/chistomanik/162017830639/"}],
+  "reputation":{"rating":"5,0","reviewCount":"36","reviewsUrl":"https://yandex.ru/maps/org/chistomanik/162017830639/reviews/"},
+  "hero":{"portrait":{"src":"assets/hero.svg","alt":"Chistomanik — мастер Дарья"},"aboutPhoto":{"src":"assets/hero.svg","alt":"Дарья — Chistomanik"},"mobileVisual":{"src":"assets/hero.svg","alt":""},"thirdStat":"reviews"},
+  "portfolio":{"title":"Направление работы","lead":"Маникюр и ногтевой сервис","gallery":[{"src":"assets/hero.svg","alt":"Chistomanik — ногтевой сервис"}],"beforeAfter":[]},
+  "services":{"intro":"В открытой карточке стоимость услуг не опубликована; точную цену можно уточнить при записи.","categories":[{"id":"manicure","label":"Маникюр","services":[{"name":"Маникюр","description":"Аккуратная обработка и работа с формой ногтей.","price":{"type":"text","value":"Уточнить"}}]}]},
+  "promotions":[],
+  "reviews":[],
+  "amenities":[{"title":"Предварительная запись","text":"Приём по записи"},{"title":"Отдельный кабинет","text":"Указан в отзывах клиентов"}],
+  "seo":{"title":"Chistomanik — мастер маникюра Дарья в Москве","description":"Chistomanik: мастер Дарья, маникюр, контакты и запись в Москве.","keywords":["Chistomanik","Дарья","маникюр","Москва"],"locale":"ru_RU"},
+  "analytics":{},
+  "deployment":{}
+}
